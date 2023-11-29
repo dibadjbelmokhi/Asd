@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "asd_f9af0d8f"
+        },
+        {
+            "type": "java",
+            "name": "exo02",
+            "request": "launch",
+            "mainClass": "tp02.exo02",
+            "projectName": "asd_f9af0d8f"
+        }
+    ]
+}
